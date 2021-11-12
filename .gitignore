@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.cab # Windows Cabinet 
+*.msi # MSI файлы также называются окнами файлы пакета установщика, которые используются для распространения обновлений для Windows
+*.msix # Файл MSIX - это сжатый Zip-пакет
+*.msm # 
+*.msp # 
+
+*.stackdump # 
+
+*.lnk # 
